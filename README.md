@@ -5,21 +5,21 @@
 ## Tópicos
 🔹 [Descrição do projeto ](#descrição-do-projeto)
 
-🔹 [Funcionalidades](#funcionalidades)
+🔹 [Funcionalidades](#funcionalidades-⚙️)
 
 🔹 [Distribuição](#distribuição)
 
-🔹 [Pré-requisitos](#pré-requisitos)
+🔹 [Pré-requisitos](#pré-requisitos-⚠️)
 
 🔹 [Como rodar a aplicação](#como-rodar-a-aplicação)
 
 🔹 [Testes realizados](#testes-realizados)
 
-🔹 [Linguagens, dependências e libs utilizadas](#linguagens-dependências-e-libs-utilizadas)
+🔹 [Linguagens, dependências e libs utilizadas](#linguagens-dependências-e-libs-utilizadas-📚)
 
 🔹 [Desenvolvedores/Contribuintes](#desenvolvedores/contribuintes)
 
-🔹 [Copyright](#copyright)
+🔹 [Copyright](#copyright-©️-2023-geode)
 
 #1
 ## Descrição do projeto 
