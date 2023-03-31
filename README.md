@@ -15,7 +15,7 @@
 
 🔹 [Testes realizados](#testes-realizados)
 
-🔹 [Linguagens, dependências e libs utilizadas](#linguagens,-dependências-e-libs-utilizadas)
+🔹 [Linguagens, dependências e libs utilizadas](#linguagens-dependências-e-libs-utilizadas)
 
 🔹 [Desenvolvedores/Contribuintes](#desenvolvedores/contribuintes:)
 
