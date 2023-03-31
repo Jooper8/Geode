@@ -3,7 +3,7 @@
 ## Status do Projeto: ✔️ Concluído
 
 ## Tópicos
-🔹 [Descrição do projeto ](#1)
+🔹 [Descrição do projeto ](#descrição-do-projeto)
 
 🔹 Funcionalidades
 
@@ -29,7 +29,8 @@
 
 🔹 Informações Extras
 
-## Descrição do projeto {#1}
+#1
+## Descrição do projeto 
 Descrição breve do projeto compondo um paragrafo ou dois.
 
 ## Funcionalidades ⚙️
