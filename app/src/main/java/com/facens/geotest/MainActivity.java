@@ -41,27 +41,27 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-        //
+        //Checa se a permissão de câmera foi permitida. Caso não, pede a permissão.
         if(ActivityCompat.checkSelfPermission(this, android.Manifest.permission.CAMERA) != PackageManager.PERMISSION_GRANTED){
             ActivityCompat.requestPermissions(this, new String[]{android.Manifest.permission.CAMERA}, 0);
         }
-        //
+        //Relaciona a variável com o imageView encontrada no layout. Após, vincula o botão com a ação de tirar foto.
         imageViewPhoto = (ImageView) findViewById(R.id.image_photo);
         findViewById(R.id.btn_pic).setOnClickListener(new View.OnClickListener(){
-            //
+            //Faz com que ao clicar o botão, vá até o método de tirar foto.
             @Override
             public void onClick(View view) {takePhoto();}
         });
     }
-    //
+    //Abre o aplicativo de tirar fotos.
     private void takePhoto() {
         Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
         startActivityForResult(intent, 1);
     }
-        //
+        //Função retornada que pede as informações relacionadas ao sucesso da ação de tirar foto.
         @Override
         protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data){
-            //
+            //Caso a foto tenha sucesso em ser tirada, mostra a foto.
             if(requestCode == 1 && resultCode == RESULT_OK){
                 Bundle extras = data.getExtras();
                 Bitmap image = (Bitmap) extras.get("data");
