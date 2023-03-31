@@ -5,27 +5,26 @@
 ## Tópicos
 🔹 [Descrição do projeto ](#descrição-do-projeto)
 
-🔹 [Funcionalidades](#funcionalidades-⚙)
+🔹 [Funcionalidades](#funcionalidades)
 
 🔹 [Distribuição](#distribuição)
 
-🔹 [Pré-requisitos](#pré-requisitos-⚠)
+🔹 [Pré-requisitos](#pré-requisitos)
 
 🔹 [Como rodar a aplicação](#como-rodar-a-aplicação)
 
 🔹 [Testes realizados](#testes-realizados)
 
-🔹 [Linguagens, dependências e libs utilizadas](#linguagens-dependências-e-libs-utilizadas)
+🔹 [Linguagens, dependências e libs utilizadas](#linguagens,-dependências-e-libs-utilizadas)
 
 🔹 [Desenvolvedores/Contribuintes](#desenvolvedores/contribuintes:)
 
-🔹 [Copyright](#copyright-©️-2023-geode)
+🔹 [Licença](#licença)
 
-#1
 ## Descrição do projeto 
 Descrição breve do projeto compondo um paragrafo ou dois.
 
-## Funcionalidades ⚙
+## Funcionalidades
 ✔️ Splash screen que é mostrada ao abrir o aplicatido e redireciona ao aplicativo principal.
 
 ✔️ Tirar uma foto e mostrar ela no aplicativo principal.
@@ -35,7 +34,7 @@ Descrição breve do projeto compondo um paragrafo ou dois.
 ## Distribuição
 [Geode](https://github.com/Jooper8/Geode)
 
-## Pré-requisitos ⚠    
+## Pré-requisitos
 Mínimo:
 Android Pie 5.0; 
 SDK 33.
@@ -48,7 +47,7 @@ Para utilizar a aplicação, clice no botão "photo" para tirar uma foto, que se
 ## Testes realizados
 Aquisição e exibição de imagens e aquisição e exibição de coordenadas do celular via GPS.
 
-## Linguagens, dependencias e libs utilizadas
+## Linguagens, dependências e libs utilizadas
 ![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white);
 XML;
 Java.
